@@ -86,7 +86,7 @@ export const SearchInput = styled.input`
   font-family: 'Roboto';
 `
 
-export const SearchIconContainer = styled.div`
+export const SearchIconContainer = styled.button`
   display: flex;
   justify-content: center;
   align-items: center;
