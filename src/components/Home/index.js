@@ -180,6 +180,7 @@ class Home extends Component {
                   />
 
                   <SearchIconContainer
+                    type="button"
                     data-testid="searchButton"
                     onClick={this.getSearchResults}
                   >
